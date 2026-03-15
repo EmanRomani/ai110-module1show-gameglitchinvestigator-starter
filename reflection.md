@@ -8,7 +8,8 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - List at least two concrete bugs you noticed at the start  
   (for example: "the hints were backwards").
 
----
+--- 
+Well first off when I first ran it like just visually looking at it it looks as it will be able to run but I'm going to figure it out soon enough. When I enter a guest in it incorrectly gives me a hint so say I type in a number that's lower than the target number it gives it says to go lower and vice versa.
 
 ## 2. How did you use AI as a teammate?
 
