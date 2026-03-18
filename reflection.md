@@ -15,7 +15,7 @@ Well first off when I first ran it like just visually looking at it it looks as 
 3. The difficulty setting does The attempts allowed for different difficulties are not what they are supposed to be they are one less.
 4. I expected when clicking new game for the attempts and history to be cleared however they were not.
 6. I expected the range of numbers to correspond to difficulty however it seems they were all in that 1-100 range.
-7. I expected to be given the amount of attempts on the difficulty level however I was not.
+7. I expected to be given the amount of attempts on the difficulty level however I was not
 
 ## 2. How did you use AI as a teammate?
 
